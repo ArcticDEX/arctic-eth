@@ -10,13 +10,19 @@ Decentralized Governance: Empower users to have a voice in protocol decisions, f
 High Security and Reliability: Advanced security measures to protect user assets and data.
 Community-Centric Ecosystem: Fostering a strong community with incentives and rewards for participation.
 Transparent and Fair: Open-source code and transparent transaction processes.
+
 Getting Started
+
 To get started with the Arctic SWAP and GOVERNANCE Protocol:
 
 Clone the Repository: git clone https://github.com/ArcticProtocol/swap-governance.git
+
 Install Dependencies: Run npm install in the project directory.
+
 Setup Environment: Configure your .env file with necessary API keys and endpoints.
+
 Run the Application: Execute npm start to launch the protocol interface.
+
 Contribution Guidelines
 We encourage community contributions! If you're interested in contributing, please:
 
